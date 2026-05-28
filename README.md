@@ -5,7 +5,7 @@ Name of Company: Siya Music Production Studio
 
 Brief History: 
 
-Siya Music Production Studio is a family-owned music company, which also is registered as a record label. Established in 2017 in Johannesburg, South Africa. Inspired by authentic musical instruments and rhythm, the studio was founded by Siyabonga Dhlamin to bring authentic Production to the local community. Known for its ability to recognize fresh talent, and warm welcomes to every artist, Siya Music Production Studio has become a favorite studio destination for every local artist, singers, and professional audio engineers. 
+Siya Music Production Studio is a family-owned music company, which also is registered as a record label. Established in 2019 in Johannesburg, South Africa. Inspired by authentic musical instruments and rhythm, the studio was founded by Siyabonga Dhlamin to bring authentic Production to the local community. Known for its ability to recognize fresh talent, and warm welcomes to every artist, Siya Music Production Studio has become a favorite studio destination for every local artist, singers, and professional audio engineers. 
 
  
 
