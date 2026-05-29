@@ -7,23 +7,14 @@ Brief History:
 
 Siya Music Production Studio is a family-owned music company, which also is registered as a record label. Established in 2019 in Johannesburg, South Africa. Inspired by authentic musical instruments and rhythm, the studio was founded by Siyabonga Dhlamin to bring authentic Production to the local community. Known for its ability to recognize fresh talent, and warm welcomes to every artist, Siya Music Production Studio has become a favorite studio destination for every local artist, singers, and professional audio engineers. 
 
- 
-
- 
-
- 
-
 MISSION STATEMENT: 
 
 To deliver authentic Musical Sounds made with stock instruments found in music softwares, high-quality mixing and mastering, while providing exceptional customer service. 
 
- 
 
 VISION STATEMENT: 
 
 To become South Africas most favourite Music studio recognized for quality, authenticity, and innovation. 
-
- 
 
 TARGET AUDIENCE: 
 
@@ -36,11 +27,6 @@ Clients seeking audio lessons
 Clients seeking song mastering and mixing 
 
  
-
- 
-
- 
-
 WEBSITE GOALS AND OBJECTIVES: 
 
 The primary goal of the Siya Music Production Studio website is to enhance its online presence, attract new customers, and streamline online studio bookings. 
@@ -69,30 +55,7 @@ Optimise the website for mobile devices and search engines.
 
 Integrate social media platforms to improve engagement. 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+  
 PROPOSED WEBSITE FEATURES: 
 
 Home page with promotional banners and special offers 
@@ -107,7 +70,6 @@ Contact page with map and operating hours
 
 Social Media and WhatsApp Integration 
 
- 
 
 KEY PERFORMANCE INDICATORS: 
 
@@ -120,6 +82,26 @@ Grow social media engagement by 25%
 Increase studio reservation by 20% 
 
 Achieve a customer satisfaction rate of 90% or higher. 
+
+Possible future enhancements include:
+
+Online payment integration
+User login system
+Live chat support
+Music upload functionality
+Admin dashboard
+Learning Outcomes
+
+Through this project, I improved my understanding of:
+
+Website structure using HTML
+Styling with CSS
+Responsive web design
+Basic JavaScript functionality
+GitHub project management
+
+Developed by Siya Dhlamini
+
 
  
 
