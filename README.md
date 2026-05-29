@@ -102,20 +102,8 @@ GitHub project management
 
 Developed by Siya Dhlamini
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 REFRERENCE: 
 
 WebDev study guide 
+W3schools
 
